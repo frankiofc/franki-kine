@@ -7,7 +7,7 @@
     "js-whatsapp", "whatsapp-api", "whatsapp-web", "whatsapp-bot",
     "automation", "multi-device"
   ],
-  "homepage": "https://github.com/frankiofc/franki-kine",
+  "homepage": "https://github.com/nstar-y/bail",
   "repository": {
     "url": "git+ssh://git@github.com/nstar-y/bail.git"
   },
