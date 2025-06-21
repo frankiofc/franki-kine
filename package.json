@@ -9,7 +9,7 @@
   ],
   "homepage": "https://github.com/frankiofc/franki-kine",
   "repository": {
-    "url": "git+ssh://git@github.com/frankiofc/franki-kine.git"
+    "url": "git+ssh://git@github.com/nstar-y/bail.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
